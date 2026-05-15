@@ -23,13 +23,13 @@
     }
 
     thead th {
-      padding: 12px;
+      padding: 13px;
       font-size: 18px;
       border: 1px solid #ddd;
     }
 
     tbody td {
-      padding: 12px;
+      padding: 13px;
       text-align: center;
       border: 1px solid #ddd;
     }
@@ -43,10 +43,3 @@
       transition: 0.3s;
     }
 
-    caption {
-      caption-side: top;
-      font-size: 24px;
-      font-weight: bold;
-      margin-bottom: 12px;
-      color: #1e3a8a;
-    }
